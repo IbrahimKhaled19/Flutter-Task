@@ -55,7 +55,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   }
                 },
                 minWidth: double.infinity,
-                color: Colors.red,
+                color: Colors.blue,
                 child: Text(
                   "Next",
                   style: TextStyle(
